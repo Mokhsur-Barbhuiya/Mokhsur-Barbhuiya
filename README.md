@@ -1,5 +1,24 @@
-# 💫 About Me:
-<!-- Upload this as README.md in a NEW public repo named exactly like your GitHub username. --><br><br># Hi, I'm Mokhsur 👋<br><br>Student, web developer, designer and video editor. I build animated websites and cinematic video edits.<br><br>## What I do<br>- **Web development:** responsive, animated websites<br>- **Design:** web and graphic design<br>- **Video editing:** reels, short films and content for creators<br><br>## Featured projects<br>- **GPCS School Website:** a premium, scroll-animated website for Global Public Central School, Hailakandi (built for a school competition)<br>- **Personal Portfolio:** my animated portfolio with a showreel, before/after slider and a contact form<br>- **Mokhsur Creation:** my video editing and content creation site, https://mokhsur-creations.netlify.app/<br><br>## Contact<br>- Email: mokhsurbarbhuiya@gmail.com<br>- Portfolio: [add your portfolio link here]<br>- LinkedIn: [add your LinkedIn link here]<br>
+<!-- Upload this as README.md in a NEW public repo named exactly like your GitHub username. -->
+
+# Hi, I'm Mokhsur 👋
+
+Student, web developer, designer and video editor. I build animated websites and cinematic video edits.
+
+## What I do
+- **Web development:** responsive, animated websites
+- **Design:** web and graphic design
+- **Video editing:** reels, short films and content for creators
+
+## Featured projects
+- **GPCS School Website:** a premium, scroll-animated website for Global Public Central School, Hailakandi (built for a school competition)
+- **Personal Portfolio:** my animated portfolio with a showreel, before/after slider and a contact form
+- **Mokhsur Creation:** my video editing and content creation site, https://mokhsur-creations.netlify.app/
+
+## Contact
+- Email: mokhsurbarbhuiya@gmail.com
+- Portfolio: [add your portfolio link here]
+- LinkedIn: [add your LinkedIn link here]
+
 
 
 ## 🌐 Socials:
